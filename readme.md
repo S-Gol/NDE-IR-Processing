@@ -1,4 +1,4 @@
-Script to calculate second time derivatives of videos, specifically for use with flash tomography. 
+Script to calculate second time derivatives of videos, specifically for use with flash thermography. 
 
 Requires Numpy, OpenCV2, Python. 
 
