@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 
 #File config
-readPath = "C:/College/Senior 1/NDE/IR/IR1.avi"
 imagePath = "C:/College/Senior 1/NDE/IR/images/"
 videoOutPath = "C:/College/Senior 1/NDE/IR/IR_out.mp4"
 video = cv2.VideoCapture(readPath)
